@@ -1,0 +1,45 @@
+1.	Upload revision on S3 in zip file. Via Console or CLI.
+
+2.	Provision required instances.
+
+3.	Sign in to the AWS Management Console and open the AWS CodeDeploy console at https://console.aws.amazon.com/codedeploy.
+
+	Note
+
+	Sign in with the same account or IAM user information that you used in Getting Started with AWS CodeDeploy.
+
+	In the navigation pane, expand Deploy, and then choose Applications.
+
+	Choose Create application, and then select Custom application.
+
+4.	In Application name, enter CodeDeployGitHubDemo-App.
+
+5.	In Compute Platform, choose EC2/On-premises.
+
+6.	Choose Create application.
+
+7.	On the Deployment groups tab, choose Create deployment group.
+
+8.	In Deployment group name, enter CodeDeployGitHubDemo-DepGrp.
+
+9.	In Service role, choose the name of your AWS CodeDeploy service role.
+
+10.	In Deployment type, choose In-place.
+
+11.	In Environment configuration, depending on the type of instance you are using, choose Amazon EC2 instances or On-premises instances. For Key and Value, enter the instance tag key and value that was applied to your instance as part of Step 4: Provision an Instance.
+
+12.	In Deployment configuration, choose CodeDeployDefault.AllatOnce.
+
+13.	In Load Balancer, clear Enable load balancing.
+
+14.	Expand Advanced.
+
+15.	In Alarms, select Ignore alarm configuration.
+
+16.	Choose Create deployment group, and continue to the next step.
+
+17.	On the Deployment group details page, choose Create deployment.
+
+18.	In Deployment group, choose CodeDeployGitHubDemo-DepGrp.
+
+19.	In Revision type, choose S3 and Zip file and deploy.

@@ -1,0 +1,5 @@
+c:\users\nisha2487\documents\visual studio 2015\Projects\AWSEmailPOC\AWSEmailPOC\bin\Debug\AWSEmailPOC.exe.config
+c:\users\nisha2487\documents\visual studio 2015\Projects\AWSEmailPOC\AWSEmailPOC\bin\Debug\AWSEmailPOC.exe
+c:\users\nisha2487\documents\visual studio 2015\Projects\AWSEmailPOC\AWSEmailPOC\bin\Debug\AWSEmailPOC.pdb
+c:\users\nisha2487\documents\visual studio 2015\Projects\AWSEmailPOC\AWSEmailPOC\obj\Debug\AWSEmailPOC.exe
+c:\users\nisha2487\documents\visual studio 2015\Projects\AWSEmailPOC\AWSEmailPOC\obj\Debug\AWSEmailPOC.pdb

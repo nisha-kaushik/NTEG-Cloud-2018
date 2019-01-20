@@ -1,0 +1,19 @@
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\ConsoleApplication_KMS.exe.config
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\ConsoleApplication_KMS.exe
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\ConsoleApplication_KMS.pdb
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\AWSSDK.Core.dll
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\AWSSDK.KeyManagementService.dll
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\AWSSDK.S3.dll
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\AWSSDK.Core.pdb
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\AWSSDK.Core.xml
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\AWSSDK.KeyManagementService.pdb
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\AWSSDK.KeyManagementService.xml
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\AWSSDK.S3.pdb
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\AWSSDK.S3.xml
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\obj\Debug\ConsoleApplication_KMS.exe
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\obj\Debug\ConsoleApplication_KMS.pdb
+c:\users\nisha2487\documents\visual studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nisha2487\Documents\Visual Studio 2015\Projects\ConsoleApplication_KMS\ConsoleApplication_KMS\obj\Debug\ConsoleApplication_KMS.csprojResolveAssemblyReference.cache
+C:\Users\nisha2487\Desktop\NTEG_Cloud\ConsoleApplication_KMS\ConsoleApplication_KMS\bin\Debug\ConsoleApplication_KMS.exe.config
+C:\Users\nisha2487\Desktop\NTEG_Cloud\ConsoleApplication_KMS\ConsoleApplication_KMS\obj\Debug\ConsoleApplication_KMS.exe
+C:\Users\nisha2487\Desktop\NTEG_Cloud\ConsoleApplication_KMS\ConsoleApplication_KMS\obj\Debug\ConsoleApplication_KMS.pdb
